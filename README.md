@@ -32,6 +32,8 @@
 
 ## Github Stats:
 
-<a href="https://github.com/DMawi17/github-readme-stats" align="center" >
+<p align="center">
+<a href="https://github.com/DMawi17/github-readme-stats" >
   <img src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" height="50%" width="45%"/>
 </a>
+</p>

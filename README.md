@@ -32,11 +32,12 @@
 
 ## Github Stats:
 
-<span>
+<div style="display:flex">
+
 <a href="https://github.com/DMawi17/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" width="50%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" height="300"/>
 </a>
-</span>
-<span>
-<a href="https://github.com/DMawi17/github-readme-stats"><img alt="DMawi17's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMawi17&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="50%"/></a>
-</span>
+
+<a href="https://github.com/DMawi17/github-readme-stats"><img alt="DMawi17's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMawi17&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="300"/></a>
+
+</div>

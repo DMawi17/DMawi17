@@ -33,11 +33,14 @@
 
 ## Github Stats:
 
-<div>
-<a href="https://github.com/DMawi17/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" height="50%" width="45%" style="float: left"/>
+<div sytle="postion: relative">
+<a href="https://github.com/DMawi17/github-readme-stats" height="50%" width="45%" style="position: absolute">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" />
 </a>
+
+<a height="50%" width="45%" style="position: absolute">
 <img src="./assets/daftpunktocat-guy.gif" width="45%" style="float: right">
+</a>
 </div>
 <br/>
 <br/>

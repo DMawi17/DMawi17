@@ -48,6 +48,7 @@
   <img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMawi17&layout=compact&theme=radical&hide_border=true" />
 
 <br/>
+<br/>
 
 ## Find me around the web 🌎:
 
@@ -55,6 +56,9 @@
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
 ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+<br/>
+<br/>
 
 <h2 align="right">Views and Followers</h2>
 <p align="right">

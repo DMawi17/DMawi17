@@ -8,4 +8,6 @@
 
 <!-- <img src="https://octodex.github.com/images/NUX_Octodex.gif"> -->
 
-<img src="./assets/icons8-javascript.gif">
+<img src="./assets/icons8-javascript.gif" width="40" height="40">
+<img src="./assets/icons8-react.gif" width="40" height="40">
+<img src="./assets/NUX_Octodex.gif" width="200" height="200">

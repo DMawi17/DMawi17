@@ -11,14 +11,14 @@
 
 ### Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://sass-lang.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
@@ -30,3 +30,14 @@
     </a>
 </p>
 
+## Github Stats:
+
+<span>
+![DMawi17's GitHub stats](https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true)
+</span>
+
+<span>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=outrun&hide_border=true" />
+</a>
+</span>

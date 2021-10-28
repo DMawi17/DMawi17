@@ -1,4 +1,4 @@
-<img src="./assets/daftpunktocat-guy.gif">
+
 
 <h1 align="center" ><span>Hi </span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <span>This is</span> <span style="font-weight: 900; font-family:fira code">Mawi</span></h1>
 <h3 align="center" >I'm a MERN stack developer.</h3>
@@ -38,6 +38,7 @@
 <a href="https://github.com/DMawi17/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" height="50%" width="45%"/>
 </a>
+<img src="./assets/daftpunktocat-guy.gif" width="45%" style="float: right">
 <br/>
 <br/>
 

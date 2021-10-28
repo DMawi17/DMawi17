@@ -1,3 +1,5 @@
+<img src="./assets/daftpunktocat-guy.gif">
+
 <h1 align="center" ><span>Hi </span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <span>This is</span> <span style="font-weight: 900; font-family:fira code">Mawi</span></h1>
 <h3 align="center" >I'm a MERN stack developer.</h3>
 
@@ -38,8 +40,6 @@
 </a>
 <br/>
 <br/>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Connect with me:
 

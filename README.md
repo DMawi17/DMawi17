@@ -39,7 +39,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/DMawi17/github-readme-activity-graph"><img alt="DMawi17's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DMawi17&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/DMawi17/github-readme-activity-graph"><img alt="DMawi17's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DMawi17" /></a>
 
 ## Connect with me:
 
@@ -51,3 +51,4 @@
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
 <a href="https://github.com/DMawi17?tab=followers"><img src="https://img.shields.io/github/followers/DMawi17?label=Followers&style=social" alt="GitHub Badge"></a>
+

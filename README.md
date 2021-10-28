@@ -16,6 +16,9 @@
 -   📫 How to reach me: asegda17@gmail.com
 -   😄 Pronouns: mawi
 
+<br/>
+<br/>
+
 <p align="center">
     <a href="https://github.com/DMawi17/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
@@ -23,6 +26,9 @@
              src="http://github-readme-streak-stats.herokuapp.com?user=DMawi17&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
     </a>
 </p>
+
+<br/>
+<br/>
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

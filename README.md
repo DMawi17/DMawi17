@@ -7,7 +7,7 @@
 
 <h3 align="center" >I'm a MERN stack developer.</h3>
 
-### About Me
+### 👨🏾‍💻 About Me
 
 -   🔭 I’m currently working on my [final project](https://github.com/DMawi17/simple-social-media-app)
 -   🌱 I’m currently learning full stack MERN technologies with [DCI](https://github.com/DigitalCareerInstitute).
@@ -45,9 +45,9 @@
 
 <br/>
 
-## Connect with me:
+## Find me around the web 🌎:
 
-<a href = "https://www.linkedin.com/in/dmawi17/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
 
 ## Views and Followers
 

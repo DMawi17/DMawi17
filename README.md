@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family:fira code"><span style="color:green">Hi </span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <span style="color:gold">This is</span> <span style="color:red; font-weight:900; font-family:Rubik Beastly">Mawi</span></h1>
+<h1 align="center" ><span style="color:#f03c15">Hi </span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <span style="color:gold">This is</span> <span style="color:red; font-weight:900; font-family:Rubik Beastly">Mawi</span></h1>
 <h3 align="center" >I'm a MERN stack developer.</h3>
 
 ### About Me

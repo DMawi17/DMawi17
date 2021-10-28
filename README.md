@@ -1,10 +1,11 @@
-<h1 align="center" ><span>Hi </span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <span style="color:gold">This is</span> <span style="color:red; font-weight:900; font-family:Rubik Beastly">Mawi</span></h1>
+<h1 align="center" ><span>Hi </span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <span>This is</span> <span style="font-weight: 900; font-family:fira code">Mawi</span></h1>
 <h3 align="center" >I'm a MERN stack developer.</h3>
 
 ### About Me
 
 -   🔭 I’m currently working on my [final project](https://github.com/DMawi17/simple-social-media-app)
 -   🌱 I’m currently learning full stack MERN technologies with [DCI](https://github.com/DigitalCareerInstitute).
+-   👨‍💻 All of my projects are available at **[My Portfolio]()**
 -   👯 I’m looking to collaborate on Open Source Projects.
 -   📫 How to reach me: asegda17@gmail.com
 -   😄 Pronouns: mawi
@@ -32,13 +33,21 @@
 
 ## Github Stats:
 
-<div style="postion: relative">
-<div style="postion: absolute; top: 0; left: 0">
 <a href="https://github.com/DMawi17/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" height="50%" width="45%"/>
 </a>
-</div>
-<div style="postion: absolute; top: 0; right: 0">
-<a href="https://github.com/DMawi17/github-readme-stats"><img alt="DMawi17's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMawi17&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="50%" width="45%"/></a>
-</div>
-</div>
+<br/>
+<br/>
+
+<a href="https://github.com/DMawi17/github-readme-activity-graph"><img alt="DMawi17's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DMawi17&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+## Connect with me:
+
+<a href = "https://www.linkedin.com/in/dmawi17/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+## ❤ Views and Followers
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+</a>
+<a href="https://github.com/DMawi17?tab=followers"><img src="https://img.shields.io/github/followers/DMawi17?label=Followers&style=social" alt="GitHub Badge"></a>

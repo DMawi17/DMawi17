@@ -18,8 +18,6 @@
 -   😄 Pronouns: mawi
 
 
-<img src="./assets/daftpunktocat-guy-2.gif" width="500" height=>
-
 <p align="center">
     <a href="https://github.com/DMawi17/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 

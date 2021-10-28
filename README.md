@@ -52,9 +52,13 @@
 ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-## Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>
-<a href="https://github.com/DMawi17?tab=followers"><img src="https://img.shields.io/github/followers/DMawi17?label=Followers&style=social" alt="GitHub Badge"></a>
+<h2 align="right">Views and Followers</h2>
+<p align="right">
+    <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    </a>
+    <a href="https://github.com/DMawi17?tab=followers">
+        <img src="https://img.shields.io/github/followers/DMawi17?label=Followers&style=social" 
+             alt="GitHub Badge">
+    </a>
+</p>

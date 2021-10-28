@@ -26,8 +26,7 @@
 
 <p align="center">
     <a href="https://github.com/DMawi17/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dagmawi Asegid's streak" src="http://github-readme-streak-stats.herokuapp.com?user=DMawi17&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dagmawi Asegid's streak" src="http://github-readme-streak-stats.herokuapp.com?user=DMawi17&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
     </a>
 </p>
-
 

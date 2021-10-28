@@ -1,3 +1,7 @@
+-   ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+-   ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
+-   ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+
 <h1 align="center" ><span style="color:#f03c15">Hi </span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <span style="color:gold">This is</span> <span style="color:red; font-weight:900; font-family:Rubik Beastly">Mawi</span></h1>
 <h3 align="center" >I'm a MERN stack developer.</h3>
 

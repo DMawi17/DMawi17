@@ -10,6 +10,12 @@
 -   📫 How to reach me: asegda17@gmail.com
 -   😄 Pronouns: mawi
 
+<p align="center">
+    <a href="https://github.com/DMawi17/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dagmawi Asegid's streak" src="http://github-readme-streak-stats.herokuapp.com?user=DMawi17&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+    </a>
+</p>
+
 ### Languages and Tools:
 
 <p align="center"> 
@@ -23,12 +29,6 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://sass-lang.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
-</p>
-
-<p align="center">
-    <a href="https://github.com/DMawi17/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dagmawi Asegid's streak" src="http://github-readme-streak-stats.herokuapp.com?user=DMawi17&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-    </a>
 </p>
 
 ## Github Stats:

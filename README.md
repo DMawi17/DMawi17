@@ -1,4 +1,4 @@
-<h1 align="center" ><span>Hi </span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <span>This is</span> <span >Mawi</span></h1>
+<h1 align="center" ><span>Hi </span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <span style="color:gold">This is</span> <span style="color:red; font-weight:900; font-family:Rubik Beastly">Mawi</span></h1>
 <h3 align="center" >I'm a MERN stack developer.</h3>
 
 ### About Me
@@ -24,6 +24,10 @@
     <a href="https://sass-lang.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
 </p>
 
-<p align="center"></p>
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DMawi17&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+    <a href="https://github.com/DMawi17/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dagmawi Asegid's streak" src="http://github-readme-streak-stats.herokuapp.com?user=DMawi17&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+    </a>
 </p>
+
+

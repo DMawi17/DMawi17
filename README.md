@@ -1,8 +1,4 @@
--   ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
--   ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
--   ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
-
-<h1 align="center" ><span style="color:#f03c15">Hi </span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <span style="color:gold">This is</span> <span style="color:red; font-weight:900; font-family:Rubik Beastly">Mawi</span></h1>
+<h1 align="center" ><span>Hi </span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <span>This is</span> <span >Mawi</span></h1>
 <h3 align="center" >I'm a MERN stack developer.</h3>
 
 ### About Me
@@ -26,4 +22,8 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://sass-lang.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
+</p>
+
+<p align="center"></p>
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DMawi17&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </p>

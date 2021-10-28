@@ -9,12 +9,17 @@
 
 ### 👨🏾‍💻 About Me
 
+<span align="left" width="47.5%" >
 -   🔭 I’m currently working on my [final project](https://github.com/DMawi17/simple-social-media-app)
 -   🌱 I’m currently learning full stack MERN technologies with [DCI](https://github.com/DigitalCareerInstitute).
 -   👨‍💻 All of my projects are available at **[My Portfolio]()**
 -   👯 I’m looking to collaborate on Open Source Projects.
 -   📫 How to reach me: asegda17@gmail.com
 -   😄 Pronouns: mawi
+</span>
+<span align="left" width="47.5%" >
+<img src="./assets/daftpunktocat-guy-2.gif">
+</span>
 
 <p align="center">
     <a href="https://github.com/DMawi17/github-readme-streak-stats">
@@ -23,7 +28,6 @@
              src="http://github-readme-streak-stats.herokuapp.com?user=DMawi17&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
     </a>
 </p>
-
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,13 +39,10 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
-***
-
+---
 
   <img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" />
   <img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMawi17&layout=compact&theme=radical&hide_border=true" />
-
 
 <br/>
 

@@ -36,8 +36,12 @@
 ![DMawi17's GitHub stats](https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true)
 </span>
 
+<a href="https://github.com/DMawi17/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" />
+</a>
+
 <span>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=outrun&hide_border=true" />
+<a href="https://github.com/DMawi17/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DMawi17&repo=github-readme-stats&theme=outrun&hide_border=true" />
 </a>
 </span>

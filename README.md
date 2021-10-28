@@ -16,6 +16,10 @@
 -   📫 How to reach me: asegda17@gmail.com
 -   😄 Pronouns: mawi
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8544f3b17777ba2c3b0c6854a0641d75db35f441
 <p align="center">
     <a href="https://github.com/DMawi17/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 

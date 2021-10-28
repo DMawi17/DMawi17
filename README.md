@@ -1,4 +1,4 @@
-<img src="./assets/mummytocat.gif">
+<img src="./assets/mummytocat.gif" height="500" width="100%">
 
 <h1 align="center" ><span>Hi </span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <span>This is</span> <span style="font-weight: 900; font-family:fira code">Mawi</span></h1>
 <h3 align="center" >I'm a MERN stack developer.</h3>
@@ -35,9 +35,9 @@
 
 ## Github Stats:
 
-<a href="https://github.com/DMawi17/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" />
-</a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" />
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
 ## Connect with me:
 

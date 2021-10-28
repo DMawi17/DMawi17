@@ -1,3 +1,5 @@
+<img src="./assets/mummytocat.gif">
+
 <h1 align="center" ><span>Hi </span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <span>This is</span> <span style="font-weight: 900; font-family:fira code">Mawi</span></h1>
 <h3 align="center" >I'm a MERN stack developer.</h3>
 
@@ -41,7 +43,7 @@
 
 <a href = "https://www.linkedin.com/in/dmawi17/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-## ❤ Views and Followers
+## Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">

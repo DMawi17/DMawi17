@@ -32,8 +32,13 @@
 
 ## Github Stats:
 
-<p align="center">
-<a href="https://github.com/DMawi17/github-readme-stats" >
-  <img src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" height="50%" width="45%"/>
+<div style="postion: relative">
+<div style="postion: absolute; top: 0; left: 0">
+<a href="https://github.com/DMawi17/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" height="50%" width="45%"/>
 </a>
-</p>
+</div>
+<div style="postion: absolute; top: 0; right: 0">
+<a href="https://github.com/DMawi17/github-readme-stats"><img alt="DMawi17's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMawi17&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="50%" width="45%"/></a>
+</div>
+</div>

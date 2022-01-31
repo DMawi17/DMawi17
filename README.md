@@ -70,6 +70,18 @@
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" 
              alt="MongoDB">
 </a>
+<a href="https://redux.js.org">
+        <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" 
+             alt="Redux">
+</a>
+<a href="https://firebase.google.com">
+        <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" 
+             alt="Firebase">
+</a>
+<a href="https://www.atlassian.com/software/jira">
+        <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" 
+             alt="Jira">
+</a>
 
 ---
 
@@ -82,6 +94,14 @@
 ## Find me around the web 🌎:
 
 
+<a href="https://www.linkedin.com/in/dmawi17/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
+             alt="LinkedIn">
+</a>
+<a href="https://www.freecodecamp.org/DMawi17">
+        <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" 
+             alt="freeCodeCamp">
+</a>
 <a href="https://codepen.io/dmawi17/pens/public">
         <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" 
              alt="CodePen">
@@ -92,12 +112,13 @@
 </a>
 <a href="https://replit.com/@DMawi17">
         <img src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white" 
-             alt="Repl.it">
+             alt="Repl it">
 </a>
-<a href="https://www.linkedin.com/in/dmawi17/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
-             alt="LinkedIn">
+<a href="https://www.codewars.com/users/DMawi">
+        <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" 
+             alt="Codewars">
 </a>
+
 
 <br/>
 <br/>

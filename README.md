@@ -93,14 +93,10 @@
 
   <img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" />
 
-<br/>
-<br/>
-
 ## Find me around the web 🌎:
 
-
 <a href="https://www.linkedin.com/in/dmawi17/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
+        <img align="right" width="47.5%" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
              alt="LinkedIn">
 </a>
 

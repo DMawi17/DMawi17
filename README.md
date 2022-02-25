@@ -83,7 +83,6 @@
              alt="Jira">
 </a>
 </div>
----
 
   <img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" />
 

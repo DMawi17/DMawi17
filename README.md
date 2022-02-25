@@ -29,6 +29,7 @@
 <br/>
 <br/>
 
+<div align="center">
 <a href="https://www.markdownguide.org">
         <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" 
              alt="Markdown">
@@ -81,7 +82,7 @@
         <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" 
              alt="Jira">
 </a>
-
+</div>
 ---
 
   <img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" />

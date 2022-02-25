@@ -1,7 +1,7 @@
 <h1 align="center" >
-    <span>Hi</span>
+    <span>Hi there</span>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
-    <span>This is</span> 
+    <span>My name is</span> 
     <span style="font-weight: 200">DMawi</span>
 </h1>
 
@@ -9,11 +9,11 @@
 
 ### 🙋🏾‍♂️ About Me
 
--   🔭 I’m currently working as Intern for [Active IT Recruitment](https://github.com/Active-IT-Recruitment)
--   🌱 I’m studying a full stack web development course with [DCI](https://github.com/DigitalCareerInstitute).
+-   🔭 I’m currently working as an Intern for [Active IT Recruitment](https://github.com/Active-IT-Recruitment)
+-   🌱 I recently completed my study as a full-stack web developer with [DCI](https://github.com/DigitalCareerInstitute).
 -   👯 I’m looking to collaborate on Open Source Projects.
 -   📫 How to reach me: asegda17@gmail.com
--   😄 Pronouns: maui
+-   😄 Pronouns: Maui
 
 <br/>
 <br/>
@@ -85,7 +85,6 @@
 ---
 
   <img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" />
-  <img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMawi17&layout=compact&theme=radical&hide_border=true" />
 
 <br/>
 <br/>
@@ -97,10 +96,7 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
              alt="LinkedIn">
 </a>
-<a href="https://www.freecodecamp.org/DMawi17">
-        <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" 
-             alt="freeCodeCamp">
-</a>
+
 <a href="https://codepen.io/dmawi17/pens/public">
         <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" 
              alt="CodePen">
@@ -108,14 +104,6 @@
 <a href="https://codesandbox.io/u/DMawi17">
         <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" 
              alt="CodeSandbox">
-</a>
-<a href="https://replit.com/@DMawi17">
-        <img src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white" 
-             alt="Repl it">
-</a>
-<a href="https://www.codewars.com/users/DMawi">
-        <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" 
-             alt="Codewars">
 </a>
 
 

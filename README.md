@@ -1,7 +1,7 @@
 <h1 align="center" >
     <span>Hi there,</span>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-    <span>My name is</span> 
+    <span>my name is</span> 
     <span style="font-weight: 200">Mawi</span>
 </h1>
 

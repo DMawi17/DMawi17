@@ -29,10 +29,6 @@
 <br/>
 
 <div align="center">
-<a href="https://www.markdownguide.org">
-        <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" 
-             alt="Markdown">
-</a>
 <a href="https://developer.mozilla.org/de/docs/Web/HTML">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" 
              alt="HTML">

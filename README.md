@@ -9,11 +9,11 @@
 
 ### 🙋🏾‍♂️ About Me
 
--   🔭 I’m currently working as an Intern for [Active IT Recruitment](https://github.com/Active-IT-Recruitment)
--   🌱 I recently completed my study as a full-stack web developer with [DCI](https://github.com/DigitalCareerInstitute).
--   👯 I’m looking to collaborate on Open Source Projects.
+-   💼 I recently completed my Internship program with [Active IT Recruitment](https://github.com/Active-IT-Recruitment)
+-   🎓 Previously I took a one-year web development training course with [DCI gGmbH](https://github.com/DigitalCareerInstitute).
+-   👯 I’m now looking to collaborate on Open Source Projects.
 -   📫 How to reach me: asegda17@gmail.com
--   😄 Pronouns: Maui
+-   🌍 My personal [Website](www.mawi.me)
 
 <br/>
 <br/>

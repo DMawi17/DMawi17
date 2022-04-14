@@ -2,7 +2,7 @@
     <span>Hi there,</span>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
     <span>my name is</span> 
-    <span style="font-weight: 200">Mawi</span>
+    <span style="font-weight: 200">Dagmawi</span>
 </h1>
 
 <h3 align="center" > Web developer.</h3>

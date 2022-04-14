@@ -5,7 +5,7 @@
     <span style="font-weight: 200">Dagmawi</span>
 </h1>
 
-<h3 align="center" > Web developer.</h3>
+<h3 align="center" > Full Stack Developer.</h3>
 
 ### 🙋🏾‍♂️ About Me
 

@@ -5,7 +5,7 @@
     <span style="font-weight: 200">Mawi</span>
 </h1>
 
-<h3 align="center" >I'm a MERN stack developer.</h3>
+<h3 align="center" > Web developer.</h3>
 
 ### 🙋🏾‍♂️ About Me
 

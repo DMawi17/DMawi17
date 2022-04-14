@@ -2,7 +2,7 @@
     <span>Hi there,</span>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
     <span>This is</span> 
-    <span style="font-weight: 200">DMawi</span>
+    <span style="font-weight: 200">Mawi</span>
 </h1>
 
 <h3 align="center" >I'm a MERN stack developer.</h3>

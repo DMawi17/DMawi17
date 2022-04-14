@@ -13,7 +13,7 @@
 -   🎓 Previously I took a one-year web development training course with [DCI gGmbH](https://github.com/DigitalCareerInstitute).
 -   👯 I’m now looking to collaborate on Open Source Projects.
 -   📫 How to reach me: asegda17@gmail.com
--   🌍 My personal [Website](www.mawi.me)
+-   🌍 My personal [Website](https://mawi.me)
 
 <br/>
 <br/>

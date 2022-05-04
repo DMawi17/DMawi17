@@ -98,10 +98,6 @@
         <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" 
              alt="CodePen">
 </a>
-<a href="https://codesandbox.io/u/DMawi17">
-        <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" 
-             alt="CodeSandbox">
-</a>
 
 <br/>
 <br/>

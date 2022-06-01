@@ -1,5 +1,5 @@
 <h1 align="center" >
-    <span>Hi there, :hand: I am</span>
+    <span>Hi there!, :hand: I am</span>
     <span style="font-weight: 200">Dagmawi</span>
 </h1>
 

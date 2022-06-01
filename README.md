@@ -1,6 +1,6 @@
 <h1 align="center" >
     <span>Hi there,</span>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> 
     <span>I am</span> 
     <span style="font-weight: 200">Dagmawi</span>
 </h1>

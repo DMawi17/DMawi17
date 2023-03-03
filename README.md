@@ -5,7 +5,7 @@
 
 <h3 align="center" > A Web Developer.</h3>
 
-<div align="left" width="45%">
+
 ### 🙋🏾‍♂️ About Me
 
 -   💼 I recently completed my Internship program with [Active IT Recruitment](https://github.com/Active-IT-Recruitment)
@@ -15,7 +15,7 @@
 
 <br/>
 <br/>
-
+<div align="left" width="45%">
 <p>
     <a href="https://github.com/DMawi17/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 

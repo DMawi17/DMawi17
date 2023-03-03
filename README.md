@@ -5,7 +5,7 @@
 
 <h3 align="center" > A Web Developer.</h3>
 
-<span>
+<div align="left">
 ### 🙋🏾‍♂️ About Me
 
 -   💼 I recently completed my Internship program with [Active IT Recruitment](https://github.com/Active-IT-Recruitment)
@@ -23,11 +23,11 @@
              src="http://github-readme-streak-stats.herokuapp.com?user=DMawi17&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
     </a>
 </p>
-</span>
+</div>
 
-<span>
+<div align="right" >
 <a href="https://app.daily.dev/DMawi17"><img src="https://api.daily.dev/devcards/d6332d269b6e4042b7c2cc65b29bff38.png?r=y46" width="400" alt="Dagmawi Asegid's Dev Card"/></a>
-</span>
+</div>
 
 <br/>
 <br/>

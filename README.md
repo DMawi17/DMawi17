@@ -82,8 +82,8 @@
 <br/>
 <br/>
 
+<div>
   <img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" />
-
 
 ## Find me around the web 🌎:
 
@@ -96,6 +96,7 @@
         <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" 
              alt="CodePen">
 </a>
+</div>
 
 <br/>
 <br/>

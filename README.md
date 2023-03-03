@@ -5,7 +5,7 @@
 
 <h3 align="center" > A Web Developer.</h3>
 
-<div align="left">
+<div align="left" width="45%">
 ### 🙋🏾‍♂️ About Me
 
 -   💼 I recently completed my Internship program with [Active IT Recruitment](https://github.com/Active-IT-Recruitment)
@@ -25,7 +25,7 @@
 </p>
 </div>
 
-<div align="right" >
+<div align="right" width="45%" >
 <a href="https://app.daily.dev/DMawi17"><img src="https://api.daily.dev/devcards/d6332d269b6e4042b7c2cc65b29bff38.png?r=y46" width="400" alt="Dagmawi Asegid's Dev Card"/></a>
 </div>
 

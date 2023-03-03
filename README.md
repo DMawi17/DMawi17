@@ -82,8 +82,10 @@
 <br/>
 <br/>
 
-<div>
-  <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" />
+
+<img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" />
+
+<a href="https://app.daily.dev/DMawi17"><img src="https://api.daily.dev/devcards/d6332d269b6e4042b7c2cc65b29bff38.png?r=y46" width="400" alt="Dagmawi Asegid's Dev Card"/></a>
 
 ## Find me around the web 🌎:
 

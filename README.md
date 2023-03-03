@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-<p>
+<p align="center" >
     <a href="https://github.com/DMawi17/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
              alt="Dagmawi Asegid's streak" 

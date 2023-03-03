@@ -15,7 +15,7 @@
 
 <br/>
 <br/>
-<div align="left" width="45%">
+
 <p>
     <a href="https://github.com/DMawi17/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
@@ -23,11 +23,7 @@
              src="http://github-readme-streak-stats.herokuapp.com?user=DMawi17&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
     </a>
 </p>
-</div>
 
-<div align="right" width="45%" >
-<a href="https://app.daily.dev/DMawi17"><img src="https://api.daily.dev/devcards/d6332d269b6e4042b7c2cc65b29bff38.png?r=y46" width="400" alt="Dagmawi Asegid's Dev Card"/></a>
-</div>
 
 <br/>
 <br/>

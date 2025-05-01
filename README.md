@@ -19,6 +19,7 @@ const dagmawi = {
   reachMeAt: 'asegda17@gmail.com',
   funFact: 'I speak fluent code and sarcasm 😄'
 };
+```
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,mongodb,redux,firebase,bootstrap,git,jira&theme=light" />
 </div>
@@ -39,4 +40,4 @@ const dagmawi = {
   <img src="https://img.shields.io/github/followers/DMawi17?label=Followers&style=social" alt="GitHub Followers">
 </p>
 <h3 align="center">💡 “Code is poetry — let’s build galaxies with it.”</h3>
-```
+

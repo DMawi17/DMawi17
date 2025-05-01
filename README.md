@@ -12,7 +12,6 @@
 
 ### 🧠 About Me
 
-```js
     const dagmawi = {
       code: ['JavaScript', 'React', 'Node.js', 'MongoDB', 'Redux', 'HTML5', 'CSS3', 'SASS'],
       tools: ['Firebase', 'Git', 'Jira', 'Bootstrap'],
@@ -46,6 +45,5 @@
     </p>
     
     <h3 align="center">💡 “Code is poetry — let’s build galaxies with it.”</h3>
-```
 
 

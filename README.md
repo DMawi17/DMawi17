@@ -97,11 +97,10 @@ const dagmawi = {
 
 ## 🛠 Featured Projects
 
-🚀 [Awesome Project 1](https://github.com/DMawi17/project1) — A futuristic tool for devs.  
-🌐 [Live Demo](https://project1.vercel.app) | ⭐️ Stars: 120+
+🚀 [Performance Metrics](https://github.com/DMawi17/project1) — A futuristic tool for..  
+🌐 [Live Demo](https://project1.vercel.app) | 
 
-🧩 [Creative UI Kit](https://github.com/DMawi17/ui-kit) — Styled with Tailwind + animations.  
-📦 NPM: `@dmawi/ui-kit` | 📊 Weekly downloads: 300+
+🧩 [Coming Soon](https://github.com/DMawi17/ui-kit) — Styled with Tailwind + animations.  
 
 ## 📡 Connect With Me
 

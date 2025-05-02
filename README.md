@@ -139,11 +139,13 @@ const dagmawi = {
 [![Spotify](https://img.shields.io/badge/Spotify-Listening%20to%20Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/your-spotify-username)
 
 <br>
-<br>
 
 ## 🌠 Visitor Map
 
 ![Location](https://img.shields.io/badge/Location-Addis_Ababa,_Ethiopia-00F0FF?style=for-the-badge&logo=mapbox&logoColor=white)
+
+<br>
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer&text=💡%20“Code%20is%20poetry%20-%20let’s%20build%20galaxies%20with%20it.”&fontSize=30&fontColor=0ff" />

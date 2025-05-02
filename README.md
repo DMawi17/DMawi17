@@ -1,7 +1,5 @@
 <div style="text-align: center;">
-  <h1>Wah gwaan 👋 Mi a Dagmawi! Tryna fix dis code yah; Mi code a run but mi nuh ask how!; After all di learnin; mi still google how fi center a div</h1>
-  
-  <img src="./images/typing.svg" alt="Typing SVG" />
+  <h1 style="color: #1AF7DC; font-family: Orbitron, sans-serif;">Wah gwaan 👋 Mi a Dagmawi! Tryna fix dis code yah; Mi code a run but mi nuh ask how!</h1>
 </div>
 
 <div align="center">

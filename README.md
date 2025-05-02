@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=30&pause=1000&color=1AF7DC&center=true&vCenter=true&width=650&lines=Wah+gwaan+👋+Mi+a+Dagmawi!;Tryna+fix+dis+code+yah;Mi+code+a+run+but+mi+nuh+ask+how!;After+all+di+learnin;+mi+still+google+how+fi+center+a+div" alt="Typing SVG" />
 </h1>

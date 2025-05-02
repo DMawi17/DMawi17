@@ -100,6 +100,9 @@ const dagmawi = {
   <img src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="width: 35%;" />
 </p>
 
+<br>
+<br>
+
 
 ## 🛠 Featured Projects
 
@@ -107,6 +110,9 @@ const dagmawi = {
 🌐 [Live Demo](https://project1.live.app) 
 
 🧩 [Coming Soon](https://github.com/DMawi17/ui-kit) — Styled with Tailwind + animations.  
+
+<br>
+<br>
 
 ## 📡 Connect With Me
 
@@ -125,9 +131,15 @@ const dagmawi = {
   </a>
 </div>
 
+<br>
+<br>
+
 ## 🎧 Now Playing
 
 [![Spotify](https://img.shields.io/badge/Spotify-Listening%20to%20Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/your-spotify-username)
+
+<br>
+<br>
 
 ## 🌠 Visitor Map
 

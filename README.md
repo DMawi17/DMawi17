@@ -96,9 +96,10 @@ const dagmawi = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DMawi17&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DMawi17&theme=tokyonight&hide_border=true" alt="Streak Stats" style="width: 37%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="width: 35%;" />
 </p>
+
 
 ## 🛠 Featured Projects
 

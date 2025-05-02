@@ -123,7 +123,7 @@ const dagmawi = {
   <a href="https://twitter.com/dmawi17">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://dmawi.dev">
+  <a href="https://dm-portfolio-v2.netlify.app">
     <img src="https://img.shields.io/badge/-Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:asegda17@gmail.com">
@@ -148,7 +148,7 @@ const dagmawi = {
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer&text=💡%20“Code%20is%20poetry%20-%20let’s%20build%20galaxies%20with%20it.”&fontSize=30&fontColor=0ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer&text=Buildin'+irie+tings+pon+di+web!+😎🌐&fontSize=30&fontColor=0ff" alt="Capsule Render - Building Irie Things on the Web" />
 </div>
 
 <!-- Dynamic Counter -->

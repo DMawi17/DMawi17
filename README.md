@@ -98,7 +98,7 @@ const dagmawi = {
 ## 🛠 Featured Projects
 
 🚀 [Performance Metrics](https://github.com/DMawi17/project1) — A futuristic tool for..  
-🌐 [Live Demo](https://project1.vercel.app) | 
+🌐 [Live Demo](https://project1.live.app) 
 
 🧩 [Coming Soon](https://github.com/DMawi17/ui-kit) — Styled with Tailwind + animations.  
 

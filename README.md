@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 color="#1AF7DC">Wah gwaan 👋 Mi a Dagmawi! <br>Tryna fix dis code yah; Mi code a run but mi nuh ask how!</h1>
+	<h1>Wah gwaan 👋 Mi a Dagmawi! <br>Tryna fix dis code yah; Mi code a run but mi nuh ask how!</h1>
 </div>
 
 <!-- <h1 align="center">
@@ -8,17 +8,17 @@
  -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Code-Artistic-informational?style=for-the-badge&logo=codereview&color=1af7dc">
-  <img src="https://img.shields.io/badge/Coffee-Fueled-9B59B6?style=for-the-badge&logo=buymeacoffee&logoColor=white">
-  <img src="https://img.shields.io/badge/Brain-Never%20Sleeps-F1C40F?style=for-the-badge&logo=thinkpad">
+	<img src="https://img.shields.io/badge/Code-Artistic-informational?style=for-the-badge&logo=codereview&color=1af7dc">
+	<img src="https://img.shields.io/badge/Coffee-Fueled-9B59B6?style=for-the-badge&logo=buymeacoffee&logoColor=white">
+	<img src="https://img.shields.io/badge/Brain-Never%20Sleeps-F1C40F?style=for-the-badge&logo=thinkpad">
 </div>
 
 <br>
 <br>
 
-### 🧠 About Me
+## 🧠 About Me
 
-```ja
+```js
 // Yo! Check out the deets on Dagmawi's digital existence ✨
 const dagmawi = {
 	// The code spells I be castin' (low-key magic) 🧙🏽‍♂️💻
@@ -71,14 +71,14 @@ const dagmawi = {
 };
 
 // Now go forth and build amazing things! ✨
-
 ```
 
 <br>
 <br>
 
+## 🛠️ Tech Stack
+
 <div align="center">
-  <h1>🛠️ Tech Stack</h1>
   
   <h4>Frontend</h4>
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux&theme=dark" />
@@ -139,6 +139,7 @@ const dagmawi = {
 [![Spotify](https://img.shields.io/badge/Spotify-Listening%20to%20Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/your-spotify-username)
 
 <br>
+<br>
 
 ## 🌠 Visitor Map
 
@@ -150,6 +151,8 @@ const dagmawi = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer&text=Buildin'+irie+tings+pon+di+web!+😎🌐&fontSize=30&fontColor=0ff" alt="Capsule Render - Building Irie Things on the Web" />
 </div>
+
+<br>
 
 <!-- Dynamic Counter -->
 <div align="center">

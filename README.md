@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 color="#1AF7DC">Wah gwaan 👋 Mi a Dagmawi! Tryna fix dis code yah; Mi code a run but mi nuh ask how!</h1>
+  <h1 color="#1AF7DC">Wah gwaan 👋 Mi a Dagmawi! <br>Tryna fix dis code yah; Mi code a run but mi nuh ask how!</h1>
 </div>
 
 <!-- <h1 align="center">
@@ -18,7 +18,7 @@
 
 ### 🧠 About Me
 
-```javascript
+```ja
 // Yo! Check out the deets on Dagmawi's digital existence ✨
 const dagmawi = {
 	// The code spells I be castin' (low-key magic) 🧙🏽‍♂️💻
@@ -71,7 +71,7 @@ const dagmawi = {
 };
 
 // Now go forth and build amazing things! ✨
-// (and maybe center a div while you're at it) 😉
+
 ```
 
 <br>

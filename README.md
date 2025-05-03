@@ -1,6 +1,8 @@
 <div align="center">
-  <h1 color="#1AF7DC">Wah gwaan 👋 Mi a Dagmawi! Tryna fix dis code yah; Mi code a run but mi nuh ask how!</h1>
+    <h1>Wah gwaan 👋 Mi a Dagmawi!<br>Tryna fix dis code yah; Mi code a run but mi nuh ask how!</h1>
 </div>
+
+<br>
 
 <!-- <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=30&pause=1000&color=1AF7DC&center=true&vCenter=true&width=650&lines=Wah+gwaan+👋+Mi+a+Dagmawi!;Tryna+fix+dis+code+yah;Mi+code+a+run+but+mi+nuh+ask+how!;After+all+di+learnin;+mi+still+google+how+fi+center+a+div" alt="Typing SVG" />
@@ -8,17 +10,17 @@
  -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Code-Artistic-informational?style=for-the-badge&logo=codereview&color=1af7dc">
-  <img src="https://img.shields.io/badge/Coffee-Fueled-9B59B6?style=for-the-badge&logo=buymeacoffee&logoColor=white">
-  <img src="https://img.shields.io/badge/Brain-Never%20Sleeps-F1C40F?style=for-the-badge&logo=thinkpad">
+    <img src="https://img.shields.io/badge/Code-Artistic-informational?style=for-the-badge&logo=codereview&color=1af7dc">
+    <img src="https://img.shields.io/badge/Coffee-Fueled-9B59B6?style=for-the-badge&logo=buymeacoffee&logoColor=white">
+    <img src="https://img.shields.io/badge/Brain-Never%20Sleeps-F1C40F?style=for-the-badge&logo=thinkpad">
 </div>
 
 <br>
 <br>
 
-### 🧠 About Me
+## 🧠 About Me
 
-```javascript
+```js
 // Yo! Check out the deets on Dagmawi's digital existence ✨
 const dagmawi = {
 	// The code spells I be castin' (low-key magic) 🧙🏽‍♂️💻
@@ -71,23 +73,20 @@ const dagmawi = {
 };
 
 // Now go forth and build amazing things! ✨
-// (and maybe center a div while you're at it) 😉
 ```
 
 <br>
 <br>
 
+<h2>🛠️ Tech Stack</h2>
+
 <div align="center">
-  <h1>🛠️ Tech Stack</h1>
-  
-  <h4>Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux&theme=dark" />
-  
-  <h4>Backend & Databases</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,prisma,jest&theme=dark" />
-  
-  <h4>Tools & Platforms</h4>
-  <img src="https://skillicons.dev/icons?i=git,gitlab,vscode,figma,obsidian,notion,linux,windows,md&theme=dark" />
+    <h4>Frontend</h4>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux&theme=dark" />
+    <h4>Backend & Databases</h4>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,prisma,jest&theme=dark" />
+    <h4>Tools & Platforms</h4>
+    <img src="https://skillicons.dev/icons?i=git,gitlab,vscode,figma,obsidian,notion,linux,windows,md&theme=dark" />
 </div>
 
 <br>
@@ -96,8 +95,8 @@ const dagmawi = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DMawi17&theme=tokyonight&hide_border=true" alt="Streak Stats" style="width: 37%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="width: 35%;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=DMawi17&theme=tokyonight&hide_border=true" alt="Streak Stats" style="width: 37%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="width: 35%;" />
 </p>
 
 <br>
@@ -117,18 +116,18 @@ const dagmawi = {
 ## 📡 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/dmawi17">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/dmawi17">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://dm-portfolio-v2.netlify.app">
-    <img src="https://img.shields.io/badge/-Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:asegda17@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+    <a href="https://linkedin.com/in/dmawi17">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/dmawi17">
+        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://dm-portfolio-v2.netlify.app">
+        <img src="https://img.shields.io/badge/-Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="mailto:asegda17@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
 </div>
 
 <br>
@@ -136,8 +135,10 @@ const dagmawi = {
 
 ## 🎧 Now Playing
 
+
 [![Spotify](https://img.shields.io/badge/Spotify-Listening%20to%20Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/your-spotify-username)
 
+<br>
 <br>
 
 ## 🌠 Visitor Map
@@ -148,11 +149,14 @@ const dagmawi = {
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer&text=Buildin'+irie+tings+pon+di+web!+😎🌐&fontSize=30&fontColor=0ff" alt="Capsule Render - Building Irie Things on the Web" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer&text=Buildin'+irie+tings+pon+di+web!+😎🌐&fontSize=30&fontColor=0ff" alt="Capsule Render - Building Irie Things on the Web" />
 </div>
+
+<br>
+<br>
 
 <!-- Dynamic Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DMawi17&label=Stellar+Visitors&color=00F0FF&style=flat" />
-  <img src="https://img.shields.io/github/followers/DMawi17?label=Followers&style=social" alt="GitHub Followers">
+    <img src="https://komarev.com/ghpvc/?username=DMawi17&label=Stellar+Visitors&color=00F0FF&style=flat" />
+    <img src="https://img.shields.io/github/followers/DMawi17?label=Followers&style=social" alt="GitHub Followers">
 </div>

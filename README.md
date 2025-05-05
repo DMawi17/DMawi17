@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Wah gwaan 👋 Mi a Dagmawi! <br>Tryna fix dis code yah; Mi code a run but mi nuh ask how!</h1>
+	<h1>Wah gwaan 👋 Mi a Dagmawi! <br>Mi code a run but mi nuh ask how!</h1>
 </div>
 
 <br>
